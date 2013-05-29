@@ -8,7 +8,7 @@ h2: UI component's markup
 
 ## Confirm
 
-A confirmation prompt asks the user to take or confirm an action, such as responding to a system event such as asking the user to restart the device after swapping SIM cards, or to ask the user to grant or deny permission to perform a task.
+This is a test. A confirmation prompt asks the user to take or confirm an action, such as responding to a system event such as asking the user to restart the device after swapping SIM cards, or to ask the user to grant or deny permission to perform a task.
 
 > ### Characteristics
 > * Opened from buttons within app content; these buttons are often inside toolbars (for example, the Browser app’s “Share” button).
